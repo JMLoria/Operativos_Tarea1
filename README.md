@@ -2,6 +2,12 @@
 
 Este proyecto implementa un demonio con el fin de brindar un servicio al usuario
 
+## Estudiantes:
+
+- Emmanuel Esquivel Chavarrı́a
+- José Manuel Lorı́a Cordero
+
+
 ## Compilar los programas
 
 Primero asegurese de compilar los archivos antes de ejecutar 
