@@ -2,7 +2,7 @@
 
 Este proyecto implementa un demonio con el fin de brindar un servicio al usuario
 
-## Estudiantes:
+## Estudiante
 
 - Emmanuel Esquivel Chavarrı́a
 - José Manuel Lorı́a Cordero
